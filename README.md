@@ -13,19 +13,19 @@
 📁 项目结构说明
 huaxuan/
 ├── uniCloud/ # 云服务相关
-│ ├── cloudfunctions/ # 云函数目录
-│ └── database/ # 云数据库相关
+│   ├── cloudfunctions/ # 云函数目录
+│   └── database/ # 云数据库相关
 ├── components/ # 自定义组件
-│ ├── uni-button/ # 按钮组件
-│ └── components.uvue # 自定义组件文件
+│   ├── uni-button/ # 按钮组件
+│   └── components.uvue # 自定义组件文件
 ├── pages/ # 页面目录
-│ ├── index/ # 首页（花卉商城）
-│ ├── form/ # 登记页（养花台账）
-│ └── mine/ # 个人中心页
+│   ├── index/ # 首页（花卉商城）
+│   ├── form/ # 登记页（养花台账）
+│   └── mine/ # 个人中心页
 ├── static/ # 静态资源
-│ ├── flowers/ # 花卉图片
-│ ├── images/ # 通用图片
-│ └── tabbar/ # 底部导航图标
+│   ├── flowers/ # 花卉图片
+│   ├── images/ # 通用图片
+│   └── tabbar/ # 底部导航图标
 ├── uni_modules/ # uni-app 插件模块
 ├── unpackage/ # 编译打包产物
 ├── App.uvue # 应用入口
